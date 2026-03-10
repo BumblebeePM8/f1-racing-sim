@@ -1,0 +1,1 @@
+{ "name": "f1-racing-sim", "version": "1.0.0", "description": "A Formula 1 racing simulation web game using TypeScript and Babylon.js", "main": "main.js", "scripts": { "build": "tsc", "start": "live-server" }, "author": "BumblebeePM8", "license": "MIT" }
